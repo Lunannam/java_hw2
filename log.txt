@@ -1,0 +1,2 @@
+Oct 23, 2022 12:45:09 PM hw02_java.task1_logger main
+INFO: Тестовое логирование 1
